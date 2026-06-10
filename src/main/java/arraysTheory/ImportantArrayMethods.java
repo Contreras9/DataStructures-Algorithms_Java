@@ -1,8 +1,9 @@
-import java.util.ArrayList;
+package arraysTheory;
+
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class ImportantArrayMethods {
     public static void main(String[] args) {
         // asList() create a list in only just one line
         List<Integer> list = Arrays.asList(10, 20, 30);

@@ -25,7 +25,7 @@ class Tuple implements Comparable<Tuple>{
     }
 }
 
-public class Application {
+public class ComparableInterface {
     public static void main(String[] args) {
         Tuple[] arr = new Tuple[4];
         arr[0] = new Tuple(10, 11);

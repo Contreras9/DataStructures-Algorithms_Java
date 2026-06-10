@@ -1,3 +1,5 @@
+package arraysTheory;
+
 public class MaxSubArray {
 // Kadane's algorithm = O(N)
     public static void main(String[] args) {
